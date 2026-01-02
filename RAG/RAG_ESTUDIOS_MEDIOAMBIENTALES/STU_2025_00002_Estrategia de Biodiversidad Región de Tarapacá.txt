@@ -1,0 +1,1149 @@
+ ESTRATEGIA Y PLAN DE ACCIÓN PARA LA
+CONSERVACIÓN DE LA BIODIVERSIDAD EN LA
+        REGIÓN DE TARAPACÁ
+      Documento de Propuesta. Versión 03oct2002
+
+
+
+
+                    IQUIQUE
+                 OCTUBRE - 2002
+                                INDICE
+
+Presentación de la ENPAB Región de Tarapacá              4
+
+PARTE I.    ALCANCES, OBJETIVOS, ÁMBITOS Y FUNDAMENTOS
+            DE LA ESTRATEGIA                             6
+
+1. ALCANCES DE LA ESTRATEGIA                             6
+
+2. OBJETIVOS DE LA ESTRATEGIA                            6
+
+3. ÁMBITOS DE ACCIÓN DE LA ESTRATEGIA                    6
+
+4.   FUNDAMENTOS DEL PROCESO                             7
+
+PARTE II.   CONTENIDOS DE LA ESTRATEGIA
+            PARA LA BIODIVERSIDAD                        8
+
+1. PROCESO REGIONAL                                      8
+
+2. DIAGNÓSTICO DE LA BIODIVERSIDAD                       10
+
+3. PROPUESTA DE ESTRATEGIA Y PLANES DE
+   ACCIÓN PARA LA CONSERVACIÓN DE LA BIODIVERSIDAD       12
+
+
+
+
+                                  2
+                 INDICE DE FIGURAS, TABLAS Y ANEXOS
+
+Figura 1:   Estructura de la Fase Regional                  7
+
+
+
+Tabla 2:    Propuestas de acción para diversos ámbitos de
+            interés para la Región de Tarapacá              26
+
+ANEXOS                                                      27
+
+ANEXO I.    LISTADO PRELIMINAR DE FAUNA DE
+            VERTEBRADOS DE LA REGION DE TARAPACA            28
+
+ANEXO II.   LISTADO DE FLORA TERRESTRE CLASIFICADA
+            EN ALGÚN ESTADO DE CONSERVACIÓN EN LA
+            REGION DE TARAPACA                              35
+
+ANEXO III. LISTADO DE SITIOS PROPUESTOS EN LA ETAPA DE      37
+           DIAGNÓSTICO
+
+
+
+
+                                     3
+     Presentación de la Propuesta de Estrategia y Plan de Acción para la
+                   Conservación de la Biodiversidad de la
+                            Región de Tarapacá
+
+
+A escala global, la pérdida de biodiversidad es uno de los problemas ambientales
+más importantes que enfrenta la humanidad. La creciente preocupación por parte
+de la comunidad internacional, llevó a formular un instrumento que apuntara a
+revertir este grave proceso de deterioro de los recursos bióticos. Por esta razón,
+en 1992, en el marco de la Cumbre de la Tierra, se constituyó el Convenio sobre
+Diversidad Biológica, el cual ha sido suscrito por 176 países.
+
+El Gobierno de Chile, consciente de la invaluable riqueza de sus recursos
+biológicos y de la importancia que ellos poseen como base de la economía
+nacional, suscribió el convenio en junio de 1992, el cual fue ratificado como Ley de
+la República en 1994.
+
+Dadas las crecientes presiones y amenazas que enfrentan los sistemas bióticos
+del país, es necesario resaltar la importancia y el valor de la biodiversidad como
+patrimonio natural y buscar oportunidades que favorezcan su protección. Por esta
+razón, CONAMA desarrolla actualmente la Política para la Preservación y
+Protección del Patrimonio Natural, constituyendo parte fundamental de la Agenda
+Ambiental del Gobierno, otorgando un marco amplio para afianzar la conservación
+y el uso sustentable del patrimonio natural del país.
+
+En este marco, nace la implementación de una Estrategia Nacional y Plan de
+Acción para la Conservación de la Biodiversidad (ENPAB), la que tiene como
+propósito establecer un nivel adecuado de protección oficial para la totalidad de
+los ecosistemas relevantes del país, a través de un sistema de áreas silvestres
+protegidas públicas y privadas que aseguren a las generaciones futuras el
+resguardo de su patrimonio natural y el aprovechamiento racional de sus recursos.
+Por ello, la ENPAB ha sido concebida como una política de país cuya elaboración
+busca involucrar y movilizar a los diversos sectores de la sociedad, los que podrán
+decidir en conjunto qué quieren proteger y las razones para ello, y cooperar
+activamente en ese objetivo.
+
+Pese a que existe una superficie no menor de nuestro territorio bajo protección, la
+ausencia de definiciones respecto a los niveles de resguardo que deseamos para
+nuestros ecosistemas genera incertidumbre para la localización y desarrollo de
+diversas actividades. De los 75 millones de hectáreas del territorio nacional,
+alrededor de un 20% se encuentra bajo algún nivel de protección oficial. Sin
+embargo, en ese esquema encontramos ecosistemas sobrerepresentados, en
+circunstancias que otros tanto o más relevantes en términos de su biodiversidad
+no tienen protección alguna. Por esto, al año 2006 al menos el 10% de la
+superficie de los ecosistemas más relevantes del país (muchos de los cuáles
+están hoy desprotegidos) estarán bajo alguna protección oficial. Esta cifra es
+considerada adecuada por los estándares internacionales existentes en la materia.
+
+En su elaboración, la ENPAB apunta a encontrar balances y establecer acuerdos
+entre los gestores, los afectados, los interesados y los usuarios de la
+biodiversidad, enfatizando que su propósito no es conservar todos los sistemas
+bióticos del país, sino que asegurar la representación, protección y sustentabilidad
+de los mismos.
+
+Al considerar la ENPAB como un proyecto marco que busca establecer nuevas
+alianzas institucionales e incrementar las capacidades del país para implementar
+el Convenio sobre Diversidad Biológica, se espera el fortalecimiento en:
+
+
+                                         4
+?   La adopción de compromisos para la aplicación del Convenio sobre Diversidad
+    Biológica que tengan mayor posibilidad de aplicación.
+?   La integración de cuestiones relacionadas con la biodiversidad en los
+    esfuerzos nacionales, regionales y sectoriales para fomentar el desarrollo
+    socio-económico.
+?   La comprensión del rol y la función de la biodiversidad a nivel de genes,
+    especies y ecosistemas y de los servicios ambientales que ella ofrece.
+?   El acceso creciente a información sobre la biodiversidad, por parte de diversos
+    sectores de la sociedad.
+?   El proceso de transformación hacia modelos y opciones de uso y consumo que
+    no reduzcan o amenacen el capital natural.
+?   La conservación del patrimonio natural.
+
+En lo esencial, la ENPAB deberá definir prioridades y objetivos, así como las
+opciones más efectivas para alcanzar tales objetivos, de manera intersectorial, lo
+que implica un alto grado de participación en su desarrollo. El plan de acción, que
+tendrá un alcance de 5 años, deberá definir en términos concretos los recursos
+que se asignan para implementar la ENPAB, los roles y las responsabilidades de
+instituciones y usuarios de la biodiversidad, un plan de evaluación y monitoreo y
+un calendario de implementación.
+
+El documento que a continuación presentamos, tiene el propósito de dar a conocer
+los resultados obtenidos en la fase regional de este proceso correspondiente la
+identificación y priorización de sitios para la conservación de la biodiversidad,
+además de las propuestas de acción que tiendan a conservar estos ecosistemas
+de la Región de Tarapacá.
+
+En este contexto la CONAMA Región de Tarapacá ha sido el eje coordinador del
+trabajo de un amplio grupo de organismos públicos, privados, académicos, ONG’s,
+y otros agentes involucrados con la problemática ambiental, el manejo sustentable
+de los recursos naturales renovables y principalmente con la conservación de la
+diversidad biológica de nuestra región, los que a través de sus aportes, han
+permitido obtener una visión amplia del estado de la biodiversidad regional.
+
+El propósito que tiene CONAMA en torno a esta iniciativa, se relaciona no sólo con
+el cumplimiento de acuerdos internacionales, sino también con realzar el lugar que
+ocupa la biodiversidad en la agenda pública y consciencia nacional.
+
+
+
+
+                                         5
+PARTE I.     ALCANCES, OBJETIVOS, ÁMBITOS Y FUNDAMENTOS DE LA
+             ESTRATEGIA
+
+1.     ALCANCES DE LA ESTRATEGIA
+
+La razón fundamental por la cual se formula una estrategia para la biodiversidad
+es la búsqueda de un consenso con respecto al camino que se debe seguir para
+alcanzar una protección de la diversidad de especies y ecosistemas, compatible
+con el resto de los esfuerzos que demanda el desarrollo y el mejoramiento de la
+calidad de vida de los ciudadanos. Se trata, entonces, de formular reglas claras
+respecto a la biodiversidad, de darle una sustentabilidad y operatividad a la política
+ambiental, y de sistematizar de manera coherente los diversos esfuerzos que se
+están ejecutando o están previstos a corto y mediano plazo.
+
+Una acción de este tipo se justifica plenamente al explicitar un acuerdo entre
+actores que permita una compatibilización de los objetivos de protección de la
+biodiversidad y los de desarrollo económico y social. Evidentemente que todo ello
+es una base sólida para avanzar en torno a tres ejes fundamentales: un camino
+más sistemático y eficiente hacia la meta del desarrollo sostenible, el uso
+sustentable de los recursos naturales, y el mejoramiento de la calidad de vida de
+la población. Las políticas ambientales deben hacerse cargo de estas materias y,
+por lo tanto, ser consistentes con metas realistas, ajustadas a las capacidades
+reales, y apoyadas en esfuerzos participativos. Así, el tema ambiental, y
+particularmente la protección de la biodiversidad, se convierte en una oportunidad
+para mejorar la calidad de vida de las personas, más que sólo en restricciones ante
+evidentes procesos de deterioro del entorno.
+
+2.     OBJETIVOS DE LA ESTRATEGIA
+
+2.1.   Objetivo general
+
+El objetivo general es definir una Estrategia y un Plan de Acción Regional a cinco
+años, que de manera participativa y consensuada, incorpore un conjunto ordenado
+de objetivos, prioridades y acciones, tendientes a la conservación de la
+biodiversidad.
+
+2.2.   Objetivos específicos
+
+El marco de trabajo para la formulación de la estrategia está vinculado con los
+siguientes propósitos específicos:
+
+a)     Identificar componentes claves de la diversidad biológica, en sus diferentes
+       niveles (ecosistema, especie y genes), con miras a su conservación y
+       utilización sostenible.
+b)     Determinar los procesos y actividades, actuales o potenciales, que afecten
+       negativamente la conservación de la diversidad biológica.
+c)     Involucrar y comprometer a la sociedad civil a través de una participación
+       activa en el proceso de formulación y ejecución de la estrategia.
+d)     Proponer medidas prioritarias para la conservación de la diversidad
+       biológica y la utilización sostenible de sus componentes.
+
+3.     ÁMBITOS DE ACCIÓN DE LA ESTRATEGIA
+
+El proceso de formulación de la Estrategia ha propuesto diversas áreas temáticas
+sobre las cuales formular propuestas de acción tendientes a la conservación de la
+biodiversidad. El grado de importancia de cada una de ellas, depende
+
+
+
+                                          6
+directamente de los ámbitos geográfico y político-administrativo en el cual se
+encuentra inserta cada región.
+
+Alguno de los ámbitos planteados son los siguientes:
+- Conservación in situ de la diversidad biológica.
+- Conservación ex situ de la diversidad biológica.
+- Conservación y uso sustentable de los recursos genéticos nativos.
+- Control de especies exóticas invasoras.
+- Impulso a la investigación de la conservación y uso sustentable de la
+   diversidad biológica.
+- Recuperación de ecosistemas y especies en peligro.
+- Educación y creación de conciencia pública sobre conservación y uso
+   sustentable de la biodiversidad.
+- Acceso a la información para la conservación y uso sustentable de la
+   biodiversidad.
+- Desarrollo de capacidades en bioseguridad.
+- Uso sustentable de los recursos naturales en los sectores agrícola, forestal,
+   acuícola, pesquero y turismo.
+
+4.     FUNDAMENTOS DEL PROCESO
+
+4.1.   Enfoque regional
+
+Una amplia y variada participación regional y provincial permite que las grandes
+orientaciones estratégicas de nivel nacional tengan una mayor convalidación, y por
+lo tanto, que su aplicación en el terreno sea más eficientes.
+
+4.2    Participación e involucramiento regional y sectorial
+
+La amplia participación e involucramiento de los diversos actores sociales evita el
+riesgo de adoptar estrategias parcializadas, en torno al tema de la conservación
+de la biodiversidad. El proceso de elaboración de la Estrategia de Biodiversidad es
+en sí mismo una herramienta para el aumento de la conciencia pública alrededor
+del tema.
+
+4.3    Priorización del proceso sobre los productos
+
+Si bien, uno de los resultados de la Estrategia de Biodiversidad corresponderá a
+un documento que refleje los debates generados a nivel regional en torno a la
+conservación de la biodiversidad, es fundamental resaltar todos aquellos procesos
+que se espera queden instalados en distintos ámbitos y sectores una vez
+finalizada esta primera fase de la elaboración de la Estrategia Nacional.
+
+4.4    Destacar el carácter cíclico del proceso
+
+Idealmente se trata de un proceso iterativo donde se distinguen cuatro etapas
+iniciales: diagnóstico, diseño de las Estrategias y Planes de Acción,
+implementación y evaluación y monitoreo de dicha implementación.
+
+
+
+
+                                         7
+PARTE II.    CONTENIDOS DE LA ESTRATEGIA PARA LA BIODIVERSIDAD
+
+1.    PROCESO REGIONAL
+
+La fase regional del proceso se inició en el mes de mayo del presente año, con la
+etapa de elaboración del Diagnóstico de la Biodiversidad Regional. Este trabajo,
+de acuerdo a los lineamientos establecidos para llevar a cabo el proceso de
+formulación de la Estrategia Regional y Plan de Acción para la Conservación de la
+Biodiversidad, apuntó a la identificación de los componentes de la biodiversidad,
+en sus distintos niveles (ecosistemas, especies y genes), que son fundamentales
+para ser conservados en la Región de Tarapacá. A partir de este diagnóstico
+regional fue posible priorizar aquellos componentes sobre los cuales se deben
+ejercer acciones concretas que aseguren la conservación de cada uno de ellos.
+Esta etapa del proceso ha procurado identificar, por una parte, los ecosistemas
+más relevantes de la región y su estado de conservación, así como el contexto y
+las principales tendencias que los amenazan y favorecen.
+
+La CONAMA Región de Tarapacá ha sido el eje coordinador del trabajo de
+diversos agentes involucrados con el manejo de los recursos naturales
+renovables, la problemática ambiental y principalmente la conservación de la
+biodiversidad. Para llevar a cabo esta fase del proceso se constituyeron dos
+Directorio Técnicos, uno representando a las Provincias de Arica y Parinacota y
+otro a la Provincia de Iquique, los cuales se encuentran conformados por
+organismos públicos, privados, universidades y ONG’s.
+
+Figura 1: Estructura de la Fase Regional
+
+
+                                       CONAMA
+                                  Región de Tarapacá
+                                  (Secretaría Técnica)
+
+
+
+              PARTICIPACIÓN
+               CIUDADANA
+
+
+                                  Organismos Públicos
+         DIRECTORIO TÉCNICO       Comunidad Científica     DIRECTORIO TÉCNICO
+           Provincias Iquique            ONG’s           Provincias Arica-Parinacota
+
+                                      Diagnóstico
+
+
+                                     VALIDACION Y
+                                     PROPUESTAS
+
+
+
+
+                        PROPUESTA DE PLAN DE ACCIÓN REGIONAL
+
+
+
+
+En una primera etapa, una vez presentado el proceso de la Estrategia Regional de
+la Biodiversidad, el trabajo de los Directorios estuvo orientado al aporte de
+información relevante a considerar en el diagnóstico.
+
+Entre los meses de Mayo y Julio, se llevó a cabo una serie de reuniones y
+entrevistas con cada uno de los Directorios conformados, donde cada uno de los
+integrantes, en base a criterios científico-ecológicos y de amenazas de cada uno
+de los sectores a los cuales representan, identificaron los sitios, hábitats y/o
+
+
+                                        8
+ecosistemas de la región que poseen características singulares en cuanto a su
+biodiversidad. Además, se entregaron los fundamentos científicos y técnicos de
+dicha selección y las consideraciones, acerca de las presiones antrópicas y
+naturales que condicionan el desarrollo natural, actual y futuro, de dichos hábitats.
+
+La selección de ecosistemas de importancia para la conservación de la
+biodiversidad, fue apoyada por cartografía generada a partir de la línea de base
+referencial proporcionada por el nivel central, la cual contó con información de
+base como: límites administrativos, centros poblados, red vial, cursos y cuerpos de
+agua. Además, de una plataforma establecida sobre la base de la combinación de
+la Clasificación de Gajardo (1994) para 11 formaciones vegetales de la Primera
+Región, con la información de uso de suelo del Catastro Vegetacional de Chile
+(CONAF - CONAMA, 1997).
+
+En forma paralela al trabajo realizado por los Directorios Técnicos, se obtuvo el
+aporte de la comunidad a través de talleres de consula ciudadana. Estos talleres
+contaron con la participación de diversos agentes sociales sin conocimientos
+técnicos en biodiversidad, pero con un valiosa experiencia en torno a los recursos
+naturales asociados a las localidades donde viven. Si bien, la obtención de
+información como insumo para el diagnóstico era un objetivo fundamental en la
+realización de estos talleres, también lo era el involucramiento en este proceso, de
+quienes son beneficiarios directos de la biodiversidad. El primer taller realizado
+tuvo lugar en la localidad de Pica el día 27 de Junio del presente, donde se contó
+con la participación de la I.M. de Pica, Juntas de Vecinos, Agricultores y la
+comunidad en general. El segundo taller de consulta ciudadana, se efectuó el día
+28 de Junio en la ciudad de Iquique y contó con la participación de profesores de
+colegios, liceos, jardines infantiles, juntas de vecinos y unidades comunales, y la
+ciudadanía en general.
+
+Además, la fase regional se vió enriquecida con la realización de seminarios
+atingentes al proceso de elaboración de la Estrategia Regional de Biodiversidad.
+En primer lugar, el día 15 de Mayo de 2002 se realizó el seminario-taller
+“Estrategias para la Conservación de la Biodiversidad”, donde se abordaron
+principalmente temas relativos a las tendencias y experiencias internacionales en
+materias de conservación de la biodiversidad. Un segundo seminario-taller,
+realizado el día 4 de Julio del presente, se llevó a cabo el seminario-taller
+“Instrumentos de Planificación Territorial: Oportunidades para la Gestión y
+Ambiental y la Conservación de la Biodiversidad”, donde se dió a conocer la
+importancia que estos instrumentos de gestión tienen para el desarrollo sostenible
+de la región, apuntando a un mejoramiento en la calidad de vida de sus habitantes
+y la protección de sus recursos naturales y el entorno.
+
+Un aporte importante en este proceso, fue la participación de la CONAMA Región
+de Tarapacá en actividades desarrolladas por otras instituciones, dentro de las
+cuales destacan el taller realizado por la Corporación Nacional Forestal de la
+Región de Tarapacá acerca del “Manejo y Mejoramiento Sustentable de los
+Bofedales en Comunidades Indígenas”, y además, el seminario-taller
+“Instrumentos para la Conservación de la Biodiversidad” realizado por el Centro de
+Estudios para el Desarrollo (CED) en el marco del “Proyecto de Conservación del
+Salar del Huasco” que esta institución realiza con financiamiento del Fondo
+Mundial para el Medio Ambiente (FMAM).
+
+De acuerdo a los lineamientos que rigen a la Estrategia Regional y Plan de Acción
+para la Conservación de la Biodiversidad, este proceso fue presentado a la
+Comisión Regional del Medio Ambiente el día 24 de Junio. Este organismo, será el
+encargado de sancionar la propuesta regional resultante de este proceso.
+
+
+
+                                          9
+La etapa de diagnóstico culminó con la realización de dos talleres abiertos,
+realizados los días 2 y 3 de septiembre en Iquique y Arica respectivamente, los
+cuales estuvieron orientados a dar a conocer y fortalecer los diferentes aspectos
+de los resultados obtenidos en la etapa de diagnóstico y la formulación de
+propuestas orientadas a asegurar la conservación de la biodiversidad regional.
+
+En su conjunto el proceso regional apuntó a:
+
+a) Diagnosticar, usando información ya existente, el estado de conservación y de
+   los usos de los principales sistemas ecológicos de cada una de las regiones.
+b) Acordar, usando la información ya existente, cuales son las principales
+   tendencias antrópicas que afectan la biodiversidad regional.
+c) Acordar las prioridades de conservación in situ y los otros ámbitos relevantes
+   para la región.
+d) Acordar planes de acción que apunten a asegurar la conservación de la
+   biodiversidad, de acuerdo a las prioridades acordadas.
+
+4. DIAGNÓSTICO DE LA BIODIVERSIDAD
+
+4.1 Resultados del Diagnóstico
+
+Los resultados obtenidos en la etapa de diagnóstico corresponden a un listado de
+sitios propuestos (ecosistemas, ambientes, hábitats, etc.) que presentan valores
+naturales notables y que su selección fue basada en la información sobre valor
+intrínseco y grado de amenaza de la cual disponían los diversos organismos y
+agentes sociales involucrados en este proceso. Además, se presentan listados de
+especies de flora y fauna consideradas de importancia regional.
+
+También, se elaboraró cartografía con la ubicación de los sitios seleccionados.
+
+La sistematización de los resultados preliminares se presenta en los siguientes
+anexos:
+
+-     Anexo I: Listado preliminar de especies de vertebrados presentes en la Región
+      de Tarapacá. Para cada especie se entrega el nombre científico, nombre
+      vernacular, estado de conservación y hábitat (Estado de conservación de las
+      especies, de acuerdo a: CONAF, 1993. Libro Rojo de los Vertebrados
+      Terrestres de Chile).
+-     Anexo II: Listado de especies de flora con problemas de conservación
+      presentes en la Región de Tarapacá.
+-     Anexo III: Listado de sitios propuestos en la etapa de diagnóstico.
+-     Anexo IV: Listado de sitios priorizados en la etapa de diagnóstico. Se entregan
+      antecedentes para cada sitio priorizado, acerca de: ubicación geográfica,
+      superficie aproximada, estado de propiedad, biodiversidad y fundamentación
+      de sus selección.
+
+2.2      Limitaciones del Diagnóstico
+
+Es conveniente precisar algunos aspectos en torno al trabajo de diagnóstico En
+primer término, si bien se realizó en una primera etapa la recopilación de
+información relevante a considerar en la etapa de diagnóstico, el proceso se
+sustentó sobre la información existente proporcionada por el nivel central de
+CONAMA. En segundo lugar, es importante destacar que la fase de diagnóstico de
+la biodiversidad regional se llevó a cabo en un reducido periodo de tiempo.
+
+Con respecto a la identificación de cada sitio, hay que tener en consideración que
+los límites definidos corresponden a una aproximación de las áreas de interés que
+
+
+                                          10
+se desean conservar, debido a que con el conocimiento actual sólo es posible
+señalar que en un determinado sector de la región hay valores de interés,
+careciéndose de información detallada sobre la dinámica precisa de cada
+ecosistema.
+
+En relación a las prioridades de protección, debe tenerse en cuenta que todos los
+sitios identificados presentan valores naturales notables y que su selección está
+basada en la información sobre valor intrínseco y grado de amenaza de la cual
+disponían los diversos organismos y agentes sociales involucrados en este
+proceso.
+
+2.3   Propuesta de priorización de sitios para la conservación de la
+      biodiversidad
+
+La priorización de sitios tuvo como punto de partida el grado de conocimiento que
+se poseía de cada uno de ellos, en término de los componentes de biodiversidad
+asociados a estos (listado de especies de flora y fauna, estado de conservación,
+comprensión de los procesos ecológicos, etc.).
+
+En el anexo IV se encuentran las características de los sitios de los cuales se
+logró obtener un conocimiento adecuado de los valores ecosistémicos que ellos
+poseen a partir de información recopilada de los diversos actores involucrados en
+el proceso, además de antecedentes provenientes de líneas de base y monitoreos
+ingresados al Sistema de Evaluación de Impacto Ambiental. Además, se presenta
+la fundamentación que los propone como sitios prioritarios.
+
+La selección de los 5 sitios prioritarios más relevantes para la conservación, se
+llevó a cabo en base a los siguientes criterios científico-ecológicos y de amenazas:
+
+a) Grado de conocimiento del ecosistema: Se refiere al nivel de conocimiento
+   que existe sobre un ecosistema y los componentes asociados. Un alto grado
+   de conocimiento de los procesos ecológicos de un ecosistema y de los
+   componentes que lo integran, permite la aplicación de medidas adecuadas que
+   aseguren su conservación.
+
+b) Grados de endemismos dentro de un ecosistema: La presencia de
+   especies de flora y fauna con rangos de distribución geográfica reducidos.
+
+c) Presencia de especies en categoría de conservación: La existencia de
+   especies de flora y/o fauna que se encuentren en los listados de especies en
+   categorías de conservación: “Libro Rojo de los Vertebrados Terrestres de
+   Chile” (CONAF 1987) y “Libro Rojo de la Flora Terrestre de Chile” (CONAF
+   1989).
+
+d) Grado de protección del ecosistema: La existencia de medidas de
+   protección legal sobre el ecosistema, como por ejemplo, que pertenezca a
+   algunas de las categorías del SNASPE, o esté amparado por algún otro
+   instrumento que reconozca la importancia ecológica que este cumple.
+
+e) Estado de conservación del ecosistema: se refiere al grado de perturbación
+   del área por acción humana. El nivel de pristinidad no excluye el uso humano,
+   ya que un sistema puede mantenerse, aún cuando existan actividades
+   antropogénicas, siempre que dichas prácticas no sean degradatorias.
+
+f) Grado de amenaza del ecosistema: Corresponde a la potencialidad de un
+   ecosistema a ser intervenido por actividades humanas, ya sea por las
+   condiciones que este otorga para el desarrollo de actividades productivas,
+
+
+                                         11
+      emplazamiento de asentamientos humanos o existencia de recursos naturales
+      renovables o no renovables de alta demanda para el hombre.
+
+En el anexo IV se encuentran las características de los sitios de los cuales se
+logró obtener un conocimiento adecuado de los valores ecosistémicos que ellos
+poseen a partir de información recopilada de los diversos actores involucrados en
+el proceso, además de antecedentes provenientes de líneas de base y monitoreos
+ingresados al Sistema de Evaluación de Impacto Ambiental. Además, se presenta
+la fundamentación que los propone como sitios prioritarios.
+
+5. PROPUESTA DE ESTRATEGIA Y PLANES DE ACCIÓN PARA LA
+   CONSERVACIÓN DE LA BIODIVERSIDAD
+
+5.1      Propuestas de nivel Regional
+
+5.1.1 Planes de acción para sitios prioritarios específicos
+
+De acuerdo a la selección de los 5 sitios prioritarios más relevantes identificados
+en la etapa de diagnóstico se efectuó la formulación de propuestas de plan de
+acción para cada uno de ellos. Cada plan de acción apuntó a la identificación de
+los mecanismos posibles de protección, actores relevantes para la protección del
+sitio y posibles fuentes de financiamiento. Las propuestas de planes de acción
+fueron desarrolladas considerando un período de implementación de 5 años.
+
+A continuación se dan a conocer los planes de acción para cada sitio propuesto
+(según orden de prioridad), identificándose en una primera tabla las líneas de
+acción generales tendientes a la conservación de la biodiversidad de cada sitio, y
+en una segunda tabla, el detalle de las actividades que apuntan a lograr los
+objetivos planteados.
+
+
+
+
+                                        12
+SITIO PRIORITARIO Nº1: SALAR DEL HUASCO (S del H)
+
+      RESUMEN NARRATIVO                   INDICADORES VERIFICABLES       MEDIOS DE                         RESPONSABLES          SUPUESTOS IMPORTANTES
+                                               OBJETIVAMENTE           VERIFICACIÓN
+FIN:                                   SE CONSERVAN PRINCIPALES     REPORTES, CENSOS.                                      AUTORIDADES Y POBLACION
+CONSERVAR EL ECOSISTEMA DE             ESPECIES (PROBLEMAS DE                                                              COMPROMETIDAS.
+S del H                                CONSERVACIÓN) DEL ECOSISTEMA
+PROPÓSITO:                             FORMACION DE UN COMITE EN    ACTA DE                                                AUTORIDADES OTORGAN FACILIDADES.
+GESTION Y MANEJO DEL                   TRES MESES                   RECONOCIMIENTO.
+ECOSISTEMA DE S del H
+RESULTADO                              1. Estudio base del ecosistema           1. Documento elaborado   - CED             - Disposición de Recursos Humanos y
+1. Evaluar el funcionamiento del                                                                         (PROYECTO FMAM)      económicos.
+  ecosistema, su relación con el
+  mantenimiento de la biodiversidad
+  y los efectos de las acciones
+  humanas existentes y potenciales
+2. Planificar y desarrollar            2.1 Formación de Comité                  2.1 Documento            - COMITE
+  instrumentos de gestión para la      2.2 Plan de gestión para la              elaborado
+  conservación de la biodiversidad y   conservación de la biodiversidad y uso   2.2 Actas del Comité
+  la sustentabilidad de acciones       sustentable del ecosistema               2.3 Acuerdos
+  humanas en el Salar del Huasco                                                institucionales
+3. Asegurar la gestión del Salar del   3. Programas de manejo integrado del     3. Reportes y monitoreos
+  Huasco para la conservación de la    ecosistema que apunten a la              de la biodiversidad
+  Biodiversidad.                       conservación de la biodiversidad
+
+
+
+
+                                                                                        13
+DETALLE DE ACTIVIDADES PLAN DE ACCIÓN S del H
+             RESUMEN NARRATIVO                             INDICADORES                  MEDIOS DE                       ACTORES       FINANCIAMIENTO        METODOLOGIA               SUPUESTOS IMPORTANTES
+                                                          VERIFICABLES                 VERIFICACION
+ACTIVIDADES                                         - Definición de especies y - Censo                            - CONAMA           - FMAM               - Recopilación de     - Disponibilidad del recurso humano y
+1.1. Caracterización de la biodiversidad y ecología hábitats prioritarios para - Monitoreos                       - CONAF            - FNDR                 información            económico
+   del S del H.                                      conservación, además de la - Informes                        - SAG              - RECURSOS           - - Investigación
+                                                     determinación de acciones                                    - DGA                SECTORIALES          científica
+                                                     específicas de conservación                                  - SERNATUR         - APORTE        DE   - Talleres
+                                                     para este ecosistema.                                        - CED                PRIVADOS
+                                                                                                                  - I.M. DE PICA     - OTROS
+                                                                                                                  - COMUNIDAD
+                                                                                                                  - SECTOR PRIVADO
+                                                                                                                  - UNIVERSIDADES
+                                                                                                                  - CONADI
+1.2 Revisión de las tendencias sectoriales e - Información de base para la         - Información documentada - CONAMA                - FMAM                                     - Compromiso de los actores involucrados
+   impactos potenciales en el S del H.        elaboración de un plan de                                           - CONAF            - FNDR
+                                              manejo de uso sustentable                                           - SAG              - RECURSOS
+                                              del salar y de las áreas                                            - DGA                SECTORIALES
+                                              adyacentes.                                                         - SERNATUR         - APORTE        DE
+                                                                                                                  - CED                PRIVADOS
+                                                                                                                  - I.M. DE PICA     - OTROS
+                                                                                                                  - COMUNIDAD
+                                                                                                                  - SECTOR PRIVADO
+                                                                                                                  - UNIVERSIDADES
+1.3 Zonificación ambiental del S del H.           - Identificación de áreas para   - Información documentada - CONAMA                - GEF              -    A     través    de - Compromiso de los actores involucrados
+                                                   la    protección,    de   uso   - Cartografía               de - CONAF            - FNDR             métodos
+                                                   restringido y otros usos.            zonificación ambiental    - SAG              - RECURSOS         participativos,    que
+                                                                                                                  - DGA                SECTORIALES      involucren      a   los
+                                                                                                                  - SERNATUR         - APORTE        DE actores      señalados
+                                                                                                                  - CED                PRIVADOS         anteriormente.
+                                                                                                                  - I.M. DE PICA     - OTROS
+                                                                                                                  - COMUNIDAD
+                                                                                                                  - UNIVERSIDADES
+                                                                                                                  - SECTOR PRIVADO
+2.1 Constitución de Comité                        - Formación de un grupo de       - Actas                        COMITÉ:                                 -Reuniones en forma - Compromiso de los actores involucrados
+                                                    trabajo multisectorial         - Reuniones                    - CONAMA                                      periódica
+                                                  - Asignación             de                                     - CONAF                                 -Talleres
+                                                    responsabilidades                                             - SAG
+                                                                                                                  - DGA
+                                                                                                                  - SERNATUR
+                                                                                                                  - CED
+                                                                                                                  - I.M. DE PICA
+                                                                                                                  - COMUNIDAD
+                                                                                                                  - SECTOR PRIVADO
+                                                                                                                  - ONG’s
+                                                                                                                  - UNIVERSIDADES
+                                                                                                                  - CONADI
+2.2 Plan de Gestión Ambiental para la conservación - Plan de Gestión Ambiental     - Formulación del Plan de - COMITE
+
+
+
+                                                                                                                   14
+  de la biodiversidad y uso sustentable del S del H     (roles, plan de trabajo,     Gestión
+                                                        responsables, costos de
+                                                        implementación, etc.)
+3.1 Programas de difusión y educación ambiental       - Realización de talleres  - Difusión por medios de                -FPA
+                                                      - Cursos de capacitación       prensa                              -SECREDUC
+                                                      - Charlas                  - Invitaciones                          -CONAF
+                                                                                                                         -SAG
+3.2 Programas de capacitación         de   actores - Talleres de capacitación        - Listados de asistencia   COMITÉ   - FMAM
+   institucionales                                                                                                       - FNDR
+3.3 Programas de financiamiento                       - Identificación de requisitos - Pbtención de recursos    COMITE   - FMAM
+                                                        operacionales y financieros                                      - FNDR
+3.4 Programas de ecoturismo                           - Inversión      privada    en - Aumento de visitantes    COMITÉ
+                                                        ecoturismo
+
+
+
+
+                                                                                                                  15
+SITIO PRIORITARIO Nº2 DESEMBOCADURA DEL RÍO LLUTA (DRLL).
+
+      RESUMEN NARRATIVO                    INDICADORES VERIFICABLES                   MEDIOS DE VERIFICACIÓN             RESPONSABLES     SUPUESTOS IMPORTANTES
+                                                OBJETIVAMENTE
+FIN:                                  SE CONSERVAN PRINCIPALES ESPECIES              REPORTES, CENSOS.                                    AUTORIDADES Y
+CONSERVAR EL ECOSISTEMA               (PROBLEMAS DE CONSERVACIÓN) DEL                                                                     POBLACION
+DRLL                                  ECOSISTEMA.                                                                                         COMPROMETIDAS.
+PROPOSITO                             FORMACION DE UN COMITE EN 6 MESES.             ACTA DE RECONOCIMIENTO. - CONAMA                     AUTORIDADES OTORGAN
+GESTION Y MANEJO DEL                                                                                                                      FACILIDADES.
+ECOSISTEMA DRLL
+
+RESULTADO                             1. Uso Regulado del Ecosistema en (02) años.   1. Plan Formulado.             - SAG                 - Disposición de Recursos
+1. Plan de Manejo Integral del                                                                                                               Humanos y económicos.
+   Ecosistema.
+
+
+
+2. Creación del Santuario de la       2. En 6 meses se declare oficialmente          2. Resolución suprema.         COMITÉ:               - Disposición de los propietarios
+   Naturaleza “Desembocadura del      Santuario de la Naturaleza.                                                    -   PROPIETARIOS     - Apertura del Estado para el
+   Río Lluta”                                                                                                        -   IMA                 reconocimiento de Santuario
+                                                                                                                     -   SAG
+                                                                                                                     -   CONAF               de la Naturaleza
+                                                                                                                     -   SERNATUR
+                                                                                                                     -   SECREDUC
+                                                                                                                     -   UTA
+                                                                                                                     -   CON. MUN. NAC.
+                                                                                                                     -   CONAMA
+                                                                                                                     -   CAMARA DE
+                                                                                                                         TURISMO
+                                                                                                                        -ONG's
+                                                                                                                        -ORGS. SOCIALES
+3. Identificación y conservación de   3. En 3 años se identifican las principales    3. Inventarios, censos, registros COMITE             - La DRLL es declarada
+   las especies nativas y             especies del ecosistema y se generan           y reportes.                                             Santuario de la Naturaleza
+   endémicas.                         programas para el manejo integrado al año                                                           - Contar con los especialistas y
+                                      2006                                                                                                   recursos económicos
+
+
+
+
+                                                                                     16
+DETALLE DE ACTIVIDADES PLAN DE ACCIÓN DRLL
+   RESUMEN NARRATIVO                     INDICADORES                       MEDIOS DE                    ACTORES           FINANCIAMIENTO             METODOLOGIA                    SUPUESTOS IMPORTANTES
+                                         VERIFICABLES                     VERIFICACION
+ACTIVIDADES                         - Actores relevantes             - Acta                      COMITÉ:                                                                        - Participación de las autoridades y
+1.1.Constitución del COMITÉ.           conforman el Comité.                                      - PROPIETARIOS                                                                    población involucrada.
+                                                                                                 - IMA
+                                                                                                 - SAG
+                                                                                                 - CONAF
+                                                                                                 - SERNATUR
+                                                                                                 - SECREDUC
+                                                                                                 - UTA
+                                                                                                 - CON. MUN. NAC.
+                                                                                                 - CONAMA
+                                                                                                 - CAMARA DE TURISMO
+                                                                                                 - ONG
+                                                                                                 - ORGS. SOCIALES
+1.2. Talleres para el Plan de       - Se realizan 4 Talleres         - Conclusiones y            COMITÉ                  - FNDR                - La sistematización de la       - Participación multisectorial.
+    Manejo Integral.                                                   recomendaciones de los                            - FMAM                 información y la coordinación
+                                                                       talleres.                                                                del proceso se realizará
+                                                                                                                                                através de un consultor.
+1.3 Aprobación y presentación del   - Presentación del Plan de       - Acta de la COREMA                                 - IMA                 - El PM será presentado a la
+    Plan de Manejo                    Manejo a la COREMA.            - Artículo de prensa                                - SERNATUR             COREMA
+                                    - Presentación a la              - Folletos, afiches, etc.                           - SECREDUC            - El PM será presentado a la
+                                      ciudadanía                                                                                                ciudadanía
+
+2.1 Elaboración de la solicitud     - Presentación de la Solicitud   - Solicitud al CMN          COMITÉ (CONSULTOR)                            - Recopilación de antecedentes   -  Aprobación del PM
+                                                                                                                                                y elaboración de la solicitud   -  Apoyo de los diversos agentes
+                                                                                                                                                por parte del consultor            sociales
+                                                                                                                                                                                - Disposición de los propietarios
+2.2 Ejecución de un plan de         - Número de organismos           - Cartas                    - INTENDENTE            - SERNATUR            - Reuniones con autoridades      - Disposición de la ciudadanía y las
+    difusión de la solicitud           informados                    - Actas de Reuniones        - CONS. MON. NAC.       - CAMARA DE TURISMO     regionales                        autoridades
+                                                                     - Prensa                    - CIUDADANÍA                                  - Folletería
+                                                                                                                                               - Información en prensa
+                                                                                                                                               - Actividades recreativas de
+                                                                                                                                                 difusión
+2.3 Ejecución piloto del Plan de    - Número de visitantes.          - Libro de registros        -   UTA                 - IMA                   - Visita de establecimientos   -     Disponibilidad   de     recursos
+    Manejo                          - Número de actividades          - Programas científicos y   -   SECREDUC            - SERNATUR                  educacionales                   económicos
+                                       científicas y educativas         educativos               -   SERNATUR                                    - Punto focal de estudios de
+                                       realizadas (In-situ)                                      -   CAMARA DE TURISMO                               tesis universitarias
+3.1 Inventario de las Especies      - Identificación de especies     - Reporte de especies con   -   UTA                 - FNDR                - Punto focal de estudios de     -     Disponibilidad   de     recursos
+                                       con problemas de                problemas de              -   SAG                 - FMAM                      tesis universitarias            económicos
+                                       conservación.                   conservación.             -   CONAF                                     - Asesoría de expertos
+                                                                                                 -   ONG
+3.2 Elaboración y aplicación de     - Aumento de las poblaciones - Censos                        -   UTA                 - FNDR                - Punto focal de estudios de     -     Disponibilidad   de     recursos
+    Programas de Manejo                de especies con problemas - Reportes                      -   SAG                 - FMAM                     tesis universitarias             económicos
+    integrado de las especies con      de conservación.                                          -   CONAF                                     - Asesoría de expertos
+    problemas de conservación.                                                                   -   ONG
+
+
+
+                                                                                                            17
+SITIO PRIORITARIO Nº3: SECTOR PRECORDILLERA DE TIGNAMAR (HÁBITAT DE LA TARUCA)
+
+      RESUMEN NARRATIVO                  INDICADORES VERIFICABLES      MEDIOS DE                            RESPONSABLES           SUPUESTOS IMPORTANTES
+                                              OBJETIVAMENTE           VERIFICACIÓN
+FIN:                                  SE CONSERVAN PRINCIPALES     REPORTES, CENSOS.                                         AUTORIDADES Y POBLACION
+CONSERVAR EL ECOSISTEMA DE            ESPECIES (PROBLEMAS DE                                                                 COMPROMETIDAS.
+PRECORDILLERA DE LA PROV.             CONSERVACIÓN) DEL ECOSISTEMA
+DE PARINACOTA (PT)
+PROPÓSITO:                            FORMACION DE UN COMITE EN 6             ACTA DE                                        AUTORIDADES OTORGAN FACILIDADES.
+GESTION Y MANEJO DEL                  MESES                                   RECONOCIMIENTO.
+ECOSISTEMA DE PT
+RESULTADO                             1. Uso Regulado del Ecosistema en       1. Plan Formulado.        -   CONAF            - Disposición de Recursos Humanos y
+1. Plan de Manejo Integral del        (02) años.                                                        -   UTA                 económicos.
+   Ecosistema.                                                                                          -   UNAP
+                                                                                                        -   SAG
+
+
+2. Creación de un Área Silvestre      2. En 6 meses se declare oficialmente   2. Resolución suprema.    COMITÉ:              - Aprobación de Reglamento de ASPP
+   Protegida Privada (ASPP)           Área Silvestre Protegida Privada                                  -    PROPIETARIOS    - Voluntad de los propietarios
+                                                                                                        -    CONAF
+                                                                                                                             - Apertura del Estado para el
+                                                                                                        -    SAG
+                                                                                                        -    UNAP              reconocimiento como ASPP
+                                                                                                        -    UTA
+                                                                                                        -    I.M. DE PUTRE
+3. Identificación y conservación de   3. En 3 años se identifican las         3. Inventarios, censos,                        - La DRLL es declarada Santuario de la
+   las especies nativas y             principales especies del ecosistema y   registros y reportes.                             Naturaleza
+   endémicas.                         se generan programas para el manejo                                                    - Contar con los especialistas y recursos
+                                      integrado al año 2006                                                                     económicos
+
+
+
+
+                                                                                        18
+DETALLE DE ACTIVIDADES PLAN DE ACCIÓN DE PT
+             RESUMEN NARRATIVO                               INDICADORES                       MEDIOS DE                ACTORES     FINANCIAMIENTO           METODOLOGIA                    SUPUESTOS IMPORTANTES
+                                                            VERIFICABLES                      VERIFICACION
+ACTIVIDADES                                            - Actores relevantes          - Acta                      COMITE                                                               - Participación de las autoridades y
+1.1.Constitución del COMITÉ.                              conforman el Comité.                                                                                                           población involucrada.
+1.2. Talleres para el Plan de Manejo Integral.         - Se realizan 4 Talleres      - Conclusiones y            COMITÉ           - FNDR                 - La sistematización de la   - Participación multisectorial.
+                                                                                       recomendaciones de los                     - FMAM                  información y la
+                                                                                       talleres.                                                          coordinación del
+                                                                                                                                                          proceso se realizará
+                                                                                                                                                          através de un consultor.
+1.3 Aprobación y presentación del Plan de Manejo       -  Presentación del Plan      - Acta de la COREMA                          - SERNATUR             - El PM será presentado
+                                                          de Manejo a la             - Artículo de prensa                         - SECREDUC              a la COREMA
+                                                          COREMA.                    - Folletos, afiches, etc.                                           - El PM será presentado
+                                                       - Presentación a la                                                                                a la ciudadanía
+                                                          ciudadanía
+2.1 Elaboración de la solicitud                        - Presentación de la          - Solicitud a CONAF                                              - Recopilación de               -   Aprobación del PM
+                                                          Solicitud                                                                                     antecedentes y                -   Apoyo de los diversos agentes
+                                                                                                                                                        elaboración de la                 sociales
+                                                                                                                                                        solicitud por parte del       -   Disposición de los propietarios
+                                                                                                                                                        consultor
+2.2 Ejecución de un plan de difusión de la solicitud   - Número de organismos        - Cartas                                     - SERNATUR          - Reuniones con                 - Disposición de la ciudadanía y las
+                                                          informados                 - Actas de Reuniones                         - CAMARA DE TURISMO autoridades regionales            autoridades
+                                                                                     - Prensa                                                         - Folletería
+                                                                                                                                                      - Información en prensa
+                                                                                                                                                      - Actividades recreativas
+                                                                                                                                                        de difusión
+2.3 Ejecución piloto del Plan de Manejo                - Número de visitantes.       - Libro de registros                         - SERNATUR          - Visita de                     - Disponibilidad de recursos económicos
+                                                       - Número de actividades       - Programas científicos y                    - CONAF               establecimientos
+                                                          científicas y educativas      educativos                                                      educacionales
+                                                          realizadas (In-situ)                                                                        - Punto focal de estudios
+                                                                                                                                                        de tesis universitarias
+3.1 Inventario de las Especies                         - Identificación de           - Reporte de especies con   -   UTA          - FNDR              - Punto focal de estudios       - Disponibilidad de recursos económicos
+                                                          especies con                 problemas de              -   -UNAP        - FMAM                de tesis universitarias
+                                                          problemas de                 conservación.             -   SAG                              - Asesoría de expertos
+                                                          conservación.                                          -   CONAF
+                                                                                                                 -   ONG
+3.2 Elaboración y aplicación de Programas de           - Aumento de las              - Censos                    -   UTA          - FNDR                 - Punto focal de estudios    - Disponibilidad de recursos económicos
+    Manejo integrado de las especies con                  poblaciones de             - Reportes                  -   SAG          - FMAM                   de tesis universitarias
+    problemas de conservación.                            especies con                                           -   CONAF                               - Asesoría de expertos
+                                                          problemas de
+                                                          conservación.
+
+
+
+
+                                                                                                                          19
+SITIO PRIORITARIO Nº4: BAHÍA CHIPANA
+        RESUMEN NARRATIVO                     INDICADORES VERIFICABLES                    MEDIOS DE                RESPONSABLES          SUPUESTOS IMPORTANTES
+                                                   OBJETIVAMENTE                        VERIFICACIÓN
+FIN:                                       SE CONSERVAN PRINCIPALES                  REPORTES, CENSOS.            - SERNAPESCA    AUTORIDADES Y POBLACION
+CONSERVAR EL ECOSISTEMA DE                 ESPECIES DEL ECOSISTEMA.                                                               COMPROMETIDAS.
+BAHIA CHIPANA
+
+PROPOSITO                                  FORMACION DE UN COMITE EN 6               ACTA DE                      - CONAMA        AUTORIDADES OTORGAN FACILIDADES.
+GESTION Y MANEJO DEL                       MESES.                                    RECONOCIMIENTO.              - SERNAPESCA
+ECOSISTEMA BAHIA CHIPANA
+RESULTADO                                  1.1 Relación de los recursos existentes   1. Documento elaborado       - SERNAPESCA    -   Disposición de Recursos Humanos y
+1. Estudio base desde el límite superior   con el valor ambiental de todo el                                      - IFOP              económicos.
+   de playa hasta la 1ª milla,             ecosistema y la cadena trófica                                         -- UNAP         -   Compromiso de los servicio competentes
+   considerando la columna de agua y el    1.2 Definir el área más sensible a
+   sustrato                                proteger
+
+2. Plan de Manejo Integral del             2.1 Uso Regulado del Ecosistema en        2. Plan formulado,           - SERNAPESCA    -   Disposición de Recursos Humanos y
+   Ecosistema.                             (02) años.                                indicando las medidas        - IFOP              económicos.
+                                           2.2 La formulación de medidas             paliativas, costos, tiempo   - UNAP          -   Compromiso del Servicio Competencia
+                                           paliativas                                de implementación
+3. Creación del área protegida de          3. En 6 meses se declare oficialmente     3. Resolución suprema.       -SERNAPESCA
+   acuerdo a la Ley de Pesca (Reserva      Santuario de la Naturaleza.                                            - SUBPESCA
+   Marina)                                                                                                        - UNAP
+
+
+
+
+                                                                                          20
+DETALLE DE ACTIVIDADES PLAN DE ACCIÓN BAHÍA CHIPANA
+   RESUMEN NARRATIVO                         INDICADORES              MEDIOS DE VERIFICACION                     ACTORES      FINANCIAMIENTO         METODOLOGIA                 SUPUESTOS IMPORTANTES
+                                            VERIFICABLES
+ACTIVIDADES                          - Actores relevantes conforman - Acta                       COMITÉ:                                                                         -     Participación     de    las
+1.1. Constitución del COMITÉ.          el Comité.                                                - PESCADORES ARTESANALES                                                            autoridades y       población
+                                                                                                 - PESCADORES INDUSTRIALES                                                           involucrada.
+                                                                                                 - BUZOS MARISCADORES
+                                                                                                 - IMI
+                                                                                                 - SAG
+                                                                                                 - SERNATUR
+                                                                                                 - SECREDUC
+                                                                                                 - UNAP
+                                                                                                 - CONAMA
+                                                                                                 - SERNAPESCA
+                                                                                                 - CAMARA DE TURISMO
+                                                                                                 - ONGS
+                                                                                                 - ORGS. SOCIALES
+                                                                                                 - GOBERNACION MARITIMA
+                                                                                                 - SECTOR PRIVADO
+                                                                                                 - IFOP
+                                                                                                 - DIRECCION ZONAL DE PESCA
+1.2. Talleres para el Plan de - Se realizan 4 Talleres               - Conclusiones y             COMITÉ                      - FNDR           - La sistematización de la        - Participación multisectorial.
+  Manejo Integral.                                                      recomendaciones de los                                - FMAM              información y la
+                                                                        talleres.                                                                 coordinación del proceso
+                                                                                                                                                  se realizará a través de un
+                                                                                                                                                  consultor.
+1.3 Aprobación y difusión del        - Presentación del Plan de - Acta de la COREMA              -        COREMA              - IMI            - El PM será presentado a la
+  Plan de Manejo                       Manejo a la COREMA.          - Artículo de prensa                                      - SERNAPESCA        COREMA
+                                     - Presentación a la ciudadanía - Folletos, afiches, etc.                                 - SECREDUC       - El PM será presentado a la
+                                                                                                                                                  ciudadanía
+
+2.1 Formulación de las medidas - Presentación de las medidas         - Acta del Comité           - COMITÉ (CONSULTOR)                          - Recopilación de                 -   Disposición del Recurso
+  paliativas                                                                                                                                       antecedentes y                    Humano y económico
+                                                                                                                                                   elaboración de la solicitud
+                                                                                                                                                   por parte del consultor
+2.2 Ejecución de un plan de          - Nível de información de los - Cartas                          COMITÉ                                    - Reuniones con autoridades       -   Disposición del Recurso
+  difusión de las medidas              diferentes          actores - Actas de Reuniones                                                        regionales, los diversos              Humano y económico
+  paliativas                           involucrados                - Prensa                                                                    actores y la ciudadanía en
+                                                                   - Dípticos                                                                  general
+                                                                   - Folletería                                                                - Folletería
+                                                                   - Video submarino                                                           - Información en prensa
+                                                                                                                                               - Actividades recreativas de
+                                                                                                                                               difusión
+2.3 Ejecución piloto del Plan de -    Número de visitantes          - Libro de registros             -   UNAP                 - IMI             - Visita de establecimientos     - Disponibilidad de recursos
+  Manejo                         -    Actividades   científicas   y - Programas científicos y        -   SECREDUC             - SERNATUR             educacionales                 económicos
+                                      recreativas                      educativos                    -   SERNATUR                               - Punto focal de estudios de
+                                                                                                     -   CAMARA DE TURISMO                           tesis universitarias
+
+
+
+
+                                                                                                            21
+3.1 Elaboración y aplicación de -- Mejoras en el estado de la -   -   UNAP             - FNDR   - Disponibilidad de recursos
+  Programas       de    Manejo biodiversidad                      -   SAG              - FMAM     económicos
+  integrado de las especies con                                   -   CONAF
+  problemas de conservación                                       -   ONG
+                                                                  -   UNAP
+                                                                  -   IFOP
+                                                                  -   SECTOR PRIVADO
+
+
+
+
+                                                                         22
+SITIO PRIORITARIO Nº5: PUNTA PATACHE (PP)
+
+        RESUMEN NARRATIVO                     INDICADORES VERIFICABLES                     MEDIOS DE                 RESPONSABLES          SUPUESTOS IMPORTANTES
+                                                   OBJETIVAMENTE                          VERIFICACIÓN
+   FIN:                                  SE CONSERVAN PRINCIPALES ESPECIES              REPORTES,                                        AUTORIDADES Y POBLACION
+   CONSERVAR EL ECOSISTEMA               (PROBLEMAS DE CONSERVACIÓN) DEL                CENSOS.                                          COMPROMETIDAS.
+   DE PP.                                ECOSISTEMA.
+   PROPOSITO                             FORMACION DE UN COMITE EN 6 MESES              ACTA DE         - CONAMA                         AUTORIDADES OTORGAN
+   GESTION Y MANEJO DEL                                                                 RECONOCIMIENTO.                                  FACILIDADES.
+   ECOSISTEMA PP
+   RESULTADO                             1. Uso Regulado del Ecosistema en 2 años.      1. Plan Formulado.      - SERNAPESCA             - Disposición de Recursos
+   1. Plan de Manejo Integral del                                                                               - UNAP                     Humanos y económicos.
+      Ecosistema.
+
+
+
+   2. Creación del Santuario de la       2. En 6 meses se declare oficialmente          2. Resolución           COMITÉ:                  - Disposición de los propietarios
+      Naturaleza “Punta Patache"          Santuario de la Naturaleza.                     suprema.               -   PROPIETARIOS        - Apertura del Estado para el
+                                                                                                                 -   IMI
+                                                                                                                                           reconocimiento de Santuario de
+                                                                                                                 -   SAG
+                                                                                                                 -   CONAF                 la Naturaleza
+                                                                                                                 -   SERNATUR
+                                                                                                                 -   SECREDUC
+                                                                                                                 -   UNAP
+                                                                                                                 -   CON. MUN. NAC.
+                                                                                                                 -   CONAMA
+                                                                                                                 -   CAMARA DE TURISMO
+                                                                                                                   - ONG
+                                                                                                                   - ORGS. SOCIALES
+                                                                                                                   - EMPRESA PRIVADA
+   3. Identificación y conservación de   3. En 3 años se identifican las principales    3. Inventarios,         - COMITE                 - Punta Patache es declarada
+      las especies nativas y              especies del ecosistema y se generan            censos, registros y                              Santuario de la Naturaleza
+      endémicas.                          programas para el manejo integrado al año       reportes.                                      - Contar con los especialistas y
+                                          2006                                                                                             recursos económicos.
+
+
+
+
+                                                                                       23
+DETALLE DE ACTIVIDADES PLAN DE ACCION PP
+      RESUMEN NARRATIVO                            INDICADORES                         MEDIOS DE                       ACTORES          FINANCIAMIENTO               METODOLOGIA                   SUPUESTOS IMPORTANTES
+                                                   VERIFICABLES                       VERIFICACION
+ACTIVIDADES                                 - Actores relevantes conforman      - Acta                        COMITÉ:                                                                          - Participación de las autoridades y
+1.1. Constitución del COMITÉ.                 el Comité.                                                          PROPIETARIOS
+                                                                                                                  -                                                                               población involucrada.
+                                                                                                                  IMI
+                                                                                                                  -
+                                                                                                                  SAG
+                                                                                                                  -
+                                                                                                                  CONAF
+                                                                                                                  -
+                                                                                                                  SERNATUR
+                                                                                                                  -
+                                                                                                                  SECREDUC
+                                                                                                                  -
+                                                                                                                  UNAP
+                                                                                                                  -
+                                                                                                                  CON. MUN. NAC.
+                                                                                                                  -
+                                                                                                                  CONAMA
+                                                                                                                  -
+                                                                                                                  CAMARA DE TURISMO
+                                                                                                                  -
+                                                                                                                - ONG
+                                                                                                                - ORGS. SOCIALES
+                                                                                                                - EMPRESA PRIVADA
+1.2. Talleres para el Plan de Manejo      - Se realizan 4 Talleres              - Conclusiones y              COMITE                   - EMPRESA PRIVADA   - La sistematización de la          - Participación multisectorial.
+   Integral.                                                                       recomendaciones de los                              - FNDR                  información y la coordinación
+                                                                                   talleres.                                           - FMAM                  del proceso se realizará
+                                                                                                                                                               através de un consultor.
+1.3 Aprobación y presentación del Plan     - Presentación del Plan de           -   Acta de la COREMA                                  - IMI               - El PM será presentado a la
+   de Manejo                                 Manejo a la COREMA.                -   Artículo de prensa                                 - SERNATUR              COREMA
+                                           - Presentación a la ciudadanía       -   Folletos, afiches, etc.                            - SECREDUC          - El PM será presentado a la
+                                                                                                                                       - EMPRESA PRIVADA       ciudadanía
+2.1 Elaboración de la solicitud           - Presentación de la Solicitud        - Solicitud al CMN                COMITÉ (CONSULTOR)                       - Recopilación de antecedentes       - Aprobación del PM
+                                                                                                                                                               y elaboración de la solicitud    - Apoyo de la ciudadanía
+                                                                                                                                                               por parte del consultor          - Disposición de los propietarios
+2.2 Ejecución de un plan de difusión de la - Número de organismos               - Cartas                          - INTENDENTE         - SERNATUR          - Reuniones con autoridades         - Disposición de la ciudadanía y las
+   solicitud                                 informados                         - Actas de Reuniones              - CONS. MON. NAC.    - CAMARA         DE     regionales                      autoridades
+                                                                                - Prensa                          - CIUDADANÍA             TURISMO         - Folletería
+                                                                                                                                       - EMPRESA PRIVADA   - Información en prensa
+                                                                                                                                                           - Actividades recreativas de
+                                                                                                                                                               difusión
+2.3 Ejecución piloto del Plan de Manejo   - Número de visitantes.               - Libro de registros          -   UNAP                  - IMI                - Visita de establecimientos      -     Disponibilidad    de        recursos
+                                          - Número de actividades científicas   - Programas científicos y     -   SECREDUC              - SERNATUR                educacionales                    económicos
+                                            y educativas realizadas (In-situ)       educativos                -   SERNATUR                                   - Punto focal de estudios de
+                                                                                                              -   CAMARA DE TURISMO                               tesis universitarias
+3.1 Inventario de las Especies            - Identificación de especies con      - Reporte de especies con         - UNAP                - FNDR             - Punto focal de estudios de        -     Disponibilidad    de        recursos
+                                            problemas de conservación.             problemas           de         - SAG                 - FMAM                    tesis universitarias             económicos
+                                                                                   conservación.                  - CONAF               - EMPRESA PRIVADA  - Asesoría de expertos
+                                                                                                                  - ONG
+3.2 Elaboración y aplicación de                                                                                   - UNAP               - FNDR                  - Punto focal de estudios de    -     Disponibilidad    de        recursos
+   Programas de Manejo integrado de las                                                                           - SAG                - FMAM                       tesis universitarias           económicos
+   especies con problemas de                                                                                      - CONAF              - EMPRESA PRIVADA       - Asesoría de expertos
+   conservación.                                                                                                  - ONG
+
+
+
+                                                                                                                         24
+5.1.2 Ecosistemas prioritarios
+
+Dentro de la Región fue posible identificar ecosistemas de amplia distribución
+geográfica que cumplen roles ecológicos de gran particularidad y sobre los cuales se
+deben establecer planes o programas orientados a la conservación de sus
+componentes. Estos son los siguientes:
+
+a)    Valles y quebradas: Estos ecosistemas, ubicados en la zona de cuencas
+      exorreicas preandinas que tienen salida al mar (sector norte de la Región),
+      cumplen un rol ecológico fundamental como corredores biológicos que
+      conectan el ambiente marino-costero con la precordillera. Entre las más
+      importantes están el Río Lluta y el Río San José. Además existen quebradas
+      importantes tales como Vitor, Camarones y Tana. Estas quebradas cumplen
+      un rol importantísimo como corredores biológicos, principalmente para la
+      avifauna, como es el caso del Picaflor de Arica (Eulidia yarelii) o el Cernícalo
+      del Norte (Falco sparverius cinnamominus) que se desplazan desde la costa
+      hasta la precordillera. También, algunos grupos de aves, como los Jilgueros y
+      Chirihues, se desplazan a través de estas quebradas desde el altiplano hacia
+      la precordillera. Además, constituyen zonas de descanso para la avifauna que
+      migra latitudinalmente, como por ejemplo el Playero de Baird, Pollito de Mar
+      Tricolor y el Halcón Peregrino. Otros grupos de vertebrados como los Zorros,
+      Quiques y murciélagos, también utilizan estas unidades geomorfológicas como
+      zonas de tránsito.
+
+b)    Bofedales: Este tipo de vegetación, corresponde a una formación azonal
+      hídrica, en un ambiente general caracterizado por una fuerte aridez (Ahumada
+      y Faúndez, 2002). Corresponden a una formación herbácea dominada por
+      plantas hemicriptófitas halófitas que crecen formando densos cojines sobre
+      suelos profundos, generalmente orgánicos e hidromórficos. Dentro del área
+      altiplánica, estos suelos se desarrollan en depresiones y en bordes de líneas
+      fluviales, debido a la presencia de un mayor volumen y más constancia de
+      aguas de escorrentía superficial (Flórez, 1991).Estas comunidades vegetales
+      resultan de alto valor, por una parte, porque el ambiente favorable en que se
+      encuentran permite el desarrollo de una alta biodiversidad, y por otra, porque
+      por la alta productividad constituyen el asiento principal de la fauna existente
+      en la zona, especialmente para los grupos de camélidos, que son el sustento
+      de la principal actividad productiva desarrollada por los habitantes de esta
+      ecorregión.
+
+c)    Oasis precordilleranos: Esta zona se encuentra concentrada al Este de la
+      Pampa del Tamarugal, bajo las condiciones generales del clima desértico
+      normal. Las condiciones microclimáticas favorables hacen que estos oasis se
+      encuentren muy localizados, en el caso de Pica, Matilla y la estación
+      experimental frutícola Esmeralda. Estos oasis han permitido un importante
+      desarrollo de actividades agrícolas, que en conjunto con el turismo son el
+      sustento de la actividad económica local. Estos ecosistemas se constituyen
+      como importantes áreas de concentración de especies de flora y fauna, las
+      cuales se han visto alteradas por la creciente presión antrópica ejercida sobre
+      ellas.
+
+
+
+
+                                         25
+Propuestas de acción regionales
+
+Si bien, los ámbitos sobre el uso sustentable de los recursos naturales y la
+conservación in situ, se relacionan directamente con los sitios priorizados, a lo largo
+de la fase regional de la Estrategia de Biodiversidad, se identificaron otros ámbitos
+de ación transversales a la protección de la biodiversidad.
+
+Tabla 1:      Propuestas de acción para diversos ámbitos de interés para la
+              Región de Tarapacá
+
+                AMBITOS                                             PROPUESTAS
+Uso sostenible de la diversidad biológica   -Incorporación de criterios de uso y conservación que eviten efectos
+                                            adversos en las especies y en los ecosistemas
+                                            -Fomentar los usos tradicionales apoyando, básicamente, a las
+                                            poblaciones locales.
+                                            -La actividad turística debe proveer la identificación y promoción de
+                                            áreas a dedicarse a la actividad ecoturística, pero siempre en el
+                                            marco de proyectos de desarrollo locales y regionales.
+                                            -Propiciar el manejo de cuencas hidrográficas para el mejor
+                                            aprovechamiento de sus recursos.
+                                            -Propiciar porgramas de reforestación con especies nativas
+                                            -Propiciar la recuperación, validación y difusión de las prácticas de
+                                            agricultura tradicional de los valles interandinos.
+                                            -Propiciar la restauración de los hábitats de la diversidad biológica
+                                            para la conservación y uso sostenible de la diversidad biológica,
+                                            proceso en el cual debe participar todos los actores de la comunidad
+                                            local.
+                                            -Propiciar centros pilotos del manejo de determinados recursos
+                                            (florísticos o faunísticos).
+                                            -Promover la utilización del control biológico y la utilización de
+                                            fertilizantes orgánicos.
+                                            -Utilización de tecnologías limpias en actividades extractivas.
+Educación y conciencia ambiental            -Desarrollar programas de información sobre la diversidad biológica
+                                            de la región.
+                                            -Promoción de los diversos tipos de educación ambiental (formal y no
+                                            formal) en los sectores privados y gubernamentales.
+                                            -Capacitación permanente a líderes locales comunales, a docentes
+                                            de diversos niveles educativos y a autoridades regionales en temas
+                                            referidos a diversidad biológica.
+                                            -Divulgaciónes masivas sobre las carácterísticas e importancia de la
+                                            diversidad biológica, los recursos naturales en general y
+                                            especialmente de los componentes de la diversidad biológica con
+                                            estatus de conservación.
+                                            -Difusión del Convenio sobre Diversidad Biológica y del marco
+                                            jurídico nacional sobre conservación y usos de la diversidad
+                                            biológica.
+Acceso a los recursos genéticos             -Elaborar pautas genéricas para el acceso a los recursos genéticos,
+                                            en base a la experiencia de uso de los recursos de diversidad
+                                            biológica.
+                                            -Valorar los conocimientos tradicionales de la región ligados a los
+                                            recursos genéticos.
+                                            -Ejecutar proyectos pilotos con contratos de acceso para elementos
+                                            florísticos y faunáticos de la región, especialmente para los que no
+                                            tengan estatus de conservación.
+Intercambio y manejo de la información      -Definir los mecanismos de acceso e intercambio de información
+                                            entre las instituciones gubernamentales y no gubernamentales de la
+                                            región.
+                                            -Difundir públicamente la información relevante sobre diversidad
+                                            biológica de la región.
+                                            -Definir claramente la propiedad intelectual de la información
+                                            científica sobre la diversidad biológica regional.
+                                            -Lograr acceso a la información y ayudar en el desarrollo de la
+                                            misma, proveniente de los centros de datos ya existentes, y propiciar
+                                            la implementación de otros centros.
+                                            -Conformar y actualizar un directorio o listado de personas e
+                                            instituciones involucradas en el proceso de conservación y uso de la
+                                            diversidad biológica de la región.
+
+
+
+
+                                               26
+

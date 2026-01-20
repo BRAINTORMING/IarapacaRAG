@@ -1,0 +1,70 @@
+ID           REGIÓN    PROVINCIA     COMUNA        OFICINA         PJ N°NOMBRE DE COMUNIDAD
+                                                                                      DIRECCIÓN-SECTOR
+                                                                                                     N° DE FAMILIAS
+                                                                                                              FECHA DE CONSTITUCIÓN
+                                                                                                                              PUEBLO INDÍGENA
+       51 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique1 AYMARA DE ESCAPIÑA
+                                                                                            ESCAPIÑA            39 6/19/94      Aymara
+      107 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique3 AYMARA DE VILLABLANCA
+                                                                                            CARIQUIMA           31 7/31/94      Aymara
+      108 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique2 AYMARA DE COTASAYA
+                                                                                            COTASAYA            47 7/31/94      Aymara
+      163 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique5 AYMARA DE CHIJO
+                                                                                            CHIJO               28 8/20/94      Aymara
+      225 Tarapacá    Tamarugal    Pozo Almonte Subdirección Nacional Iquique4 AYMARA DE PARCA
+                                                                                            PUEBLO PARCA        78 8/30/94      Aymara
+      400 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique6 AYMARA DE QUEBE
+                                                                                           QUEBE                41      10/8/94 Aymara
+      401 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique7 AYMARA DE CHULLUNCANE
+                                                                                           CHULLUNCANE, SECTOR CARIQUIMA
+                                                                                                                  25     10/9/94 Aymara
+      613 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique8 AYMARA DE ANCUAQUE
+                                                                                           CARIQUIMA            38 11/25/94     Aymara
+      866 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           11 AYMARA DE ENQUELGA
+                                                                                          ISLUGA                57 3/13/95      Aymara
+      877 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           12 AYMARA PANZUTACOLCHANE
+                                                                                               PARAJALLA        21 3/24/95      Aymara
+      910 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           13 AYMARA DE PISIGA
+                                                                                            ISLUGA
+                                                                                                CENTRO          31       4/9/95 Aymara
+      971 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           14 AYMARA DE PISIGA
+                                                                                            ISLUGA
+                                                                                                CHOQUE          72 5/21/95      Aymara
+      991 Tarapacá    Tamarugal    Pica         Subdirección Nacional Iquique
+                                                                           10 AYMARA DE CANCOSA
+                                                                                          CANCOSA               69       3/6/95 Aymara
+     1080 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           17 AYMARA DE CENTRAL
+                                                                                          COLCHANE
+                                                                                                CITANI          46 8/16/95      Aymara
+     1117 Tarapacá    Tamarugal    Huara        Subdirección Nacional Iquique
+                                                                           18 AYMARA DE HUARASIÑA
+                                                                                          TARAPACA              43 10/27/95     Aymara
+     1164 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           19 PUEBLO DE PISIGA
+                                                                                            COLCHANE
+                                                                                               CARPA            50 12/23/95     Aymara
+     1171 Tarapacá    Tamarugal    Huara        Subdirección Nacional Iquique
+                                                                           20 AYMARA CHUSMIZA-USMAGAMA
+                                                                                          CHUSMIZA-USMAGAMA     32       1/6/96 Aymara
+     1206 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           21 AYMARA DE CUCHUGUANO
+                                                                                          COLCHANE              15      3/11/96 Aymara
+     1259 Tarapacá    Tamarugal    Huara        Subdirección Nacional Iquique
+                                                                           23 AYMARA CULTANE
+                                                                                          CULTANE               20       6/6/96 Aymara
+     1260 Tarapacá    Tamarugal    Huara        Subdirección Nacional Iquique
+                                                                           24 AYMARA DE COSCAYA
+                                                                                          QUEBRADA COSCAYA      38      6/11/96 Aymara
+     1267 Tarapacá    Tamarugal    Huara        Subdirección Nacional Iquique
+                                                                           25 AYMARA DE SUCA-LIGA
+                                                                                           SUCA                 37 6/21/96      Aymara
+     1367 Tarapacá    Tamarugal    Colchane     Subdirección Nacional Iquique
+                                                                           26 AYMARA DEL PUEBLO
+                                                                                           COLCHANE
+                                                                                                BERENGUELA      42      12/9/96 Aymara
+
